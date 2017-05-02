@@ -1,5 +1,7 @@
 # em-webfiles-directory
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-webfiles-directory.svg)](https://greenkeeper.io/)
+
 directory representation for ee-webfiles
 
 ## installation
